@@ -1,0 +1,15 @@
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\bin\Debug\net6.0\Desafio .NET.exe
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\bin\Debug\net6.0\Desafio .NET.deps.json
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\bin\Debug\net6.0\Desafio .NET.runtimeconfig.json
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\bin\Debug\net6.0\Desafio .NET.dll
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\bin\Debug\net6.0\Desafio .NET.pdb
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.csproj.AssemblyReference.cache
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.AssemblyInfoInputs.cache
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.AssemblyInfo.cs
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.dll
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\refint\Desafio .NET.dll
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.pdb
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\Desafio .NET.genruntimeconfig.cache
+C:\Users\Vitor Facalha\source\repos\Desafio .NET\Desafio .NET\obj\Debug\net6.0\ref\Desafio .NET.dll
